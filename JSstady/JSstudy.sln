@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{D3BB0E9D-738F-4B50-AB18-AB141E266610}"
+	ProjectSection(SolutionItems) = preProject
+		Scrapper.js = Scrapper.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE32D91E-3B73-406E-86A9-D589B385C6F0}"
+	ProjectSection(SolutionItems) = preProject
+		Index.html = Index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonModels", "CommonModels", "{B43DE5AE-C9B0-4CD5-807C-52B15B2E390A}"
+	ProjectSection(SolutionItems) = preProject
+		Classes.js = Classes.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B43DE5AE-C9B0-4CD5-807C-52B15B2E390A} = {D3BB0E9D-738F-4B50-AB18-AB141E266610}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BD919C-5D38-4FE6-AC33-B7F6325DF32A}
+	EndGlobalSection
+EndGlobal
