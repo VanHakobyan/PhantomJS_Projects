@@ -3,7 +3,9 @@
 
 ## Example 1 - Find the Page Speed
 
+
 #### In this example, we will use PhantomJS to find the page speed for any given page URL.
+
 
 ```JS var page = require('webpage').create(), 
    system = require('system'), 
